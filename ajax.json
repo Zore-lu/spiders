@@ -1,0 +1,35 @@
+{
+  "status": 0,
+  "msg": "ok",
+  "data": {
+    "expand": "resource,tag,category,resource_origin",
+    "vid": "5CE1641D1AC9D",
+    "video": {
+      "source_type": 1,
+      "source_link": "http:\/\/video-private.xinpianchang.com\/5ce16396957b4.mp4",
+      "title": "QQ20\u00a0\u5468\u5e74\u5fae\u7535\u5f71",
+      "cover": "https:\/\/cs.xinpianchang.com\/uploadfile\/article\/2019\/05\/19\/5ce1641bb4fa7.jpeg",
+      "regisseur": "",
+      "filmmaking": "",
+      "duration": 563000,
+      "preview_image_path": "",
+      "preview_video_path": "",
+      "score": "0.0",
+      "origin_title": "",
+      "origin_website_link": "",
+      "origin_resource_link": "",
+      "subtitles_link": "",
+      "property": "1",
+      "description": "",
+      "is_vr": 0,
+      "status": 3,
+      "limit_status": 0,
+      "embed": [
+        {
+          "type": "iframe",
+          "iframe_url": "https:\/\/openapi-vtom.vmovier.com\/video\/5CE1641D1AC9D"
+        }
+      ]
+    }
+  }
+}
